@@ -1,9 +1,7 @@
 ---
+
 name: Solicitação de recurso
 about: Sugerir uma ideia para este projeto
-title: ''
-labels: ''
-assignees: ''
 
 ---
 
